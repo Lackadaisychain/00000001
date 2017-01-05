@@ -29,6 +29,6 @@
 
 [Thisweekinlaw's news items](https://tagpacker.com/user/thisweekinlaw)
 
-[Investagitive journalist featuring Congress: ***"Resisting the corporate takeover of the world"***](www.congressionaldish.com)
+[Investagitive journalist investigating Congress: ***"Resisting the corporate takeover of the world"***](www.congressionaldish.com)
 
 [No Agenda: Biweekly news deconstruction](noagendashow.com)
