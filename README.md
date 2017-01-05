@@ -24,6 +24,7 @@
     (https://www.govtrack.us/congress/bills/113/hr2094)
 
 USEFUL LINKS:
+
 [Find your Congressional Representative, and communicate easily](https://usecalltoaction.com): usecalltoaction.com
 
 [Thisweekinlaw's news items](https://tagpacker.com/user/thisweekinlaw): tagpacker.com/user/thisweekinlaw
