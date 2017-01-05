@@ -2,9 +2,7 @@
 
 ###Porto Rico
     https://www.govtrack.us/congress/bills/114/hr5278
-    
     http://www.nytimes.com/1993/05/10/business/puerto-rico-fighting-to-keep-its-tax-breaks-for-businesses.html
-    
     http://puertoricotaxincentives.com/
 ---
 ###Africa
@@ -18,7 +16,6 @@
 ---
 ###TPA (FastTrack)
     http://thehill.com/policy/finance/245827-senate-advances-fast-track-trade-bill-for-obama
-    
     https://duckduckgo.com/?q=oppose%20trade%20promotion%20authority
 ---
 ###Epi
